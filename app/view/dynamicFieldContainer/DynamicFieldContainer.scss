@@ -1,0 +1,15 @@
+.dynamicFormContainer {
+    width: 60%;
+    margin: auto;
+    border: 1px solid #ccc !important;
+    .fieldContainer {
+        padding: 20px 0;
+        .textFieldContainer {
+            padding: 0 20px;
+        }
+    }
+    .submitButton {
+        border-top: 1px solid #ccc !important;
+        width: 100%
+    }
+}
